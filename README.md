@@ -4,7 +4,7 @@ A Python script doing a bit of Nmap functionality. Can be used for slow scanning
 A port scanner which preform a SYN scan
 
 options:
-  -h, --help                show this help message and exit
+	-h, --help                show this help message and exit
   --ip IP                   The target IP (required)
   -f FILE, --file FILE      File containing port numbers
   -p PORTS, --ports PORTS   Ports range to scan
